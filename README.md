@@ -1,21 +1,22 @@
 # ⚡ E-Web Project
 
-A responsive electrician business website developed using HTML and CSS. The website showcases electrical services, home wiring solutions, repair services, and solar installation with a clean and modern interface.
+A responsive electrician business website developed using **HTML5** and **CSS3**. The website showcases electrical services, home wiring solutions, repair services, and solar installation with a clean, modern, and responsive interface.
 
 ---
 
 ## 🚀 Features
 
-- Responsive Design
-- Home Page
-- Services Section
-- Contact Section
-- Image Gallery
-- Modern UI
+- ✅ Responsive Design
+- ✅ Attractive Hero Section
+- ✅ Services Section
+- ✅ Booking Form
+- ✅ Contact Section
+- ✅ Modern UI with Animations
+- ✅ Mobile Friendly
 
 ---
 
-## 🛠 Technologies
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3
@@ -29,7 +30,8 @@ E-Web-Project/
 │
 ├── index.html
 ├── style.css
-├── assets/images/
+├── assets/
+│   └── images/
 ├── screenshots/
 └── README.md
 ```
@@ -38,22 +40,32 @@ E-Web-Project/
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
 ![Home](screenshots/homepage.png)
 
-### Services
+### 🔧 Services
 
 ![Services](screenshots/services.png)
 
 ---
 
-## ▶ Live Demo
+## 🌐 Live Demo
 
-GitHub Pages Link Here
+**GitHub Pages:**  
+👉 https://shivarjunchaturvedi.github.io/E-Web-Project/
 
 ---
 
 ## 👨‍💻 Author
 
-Shivarjun Chaturvedi
+**Shivarjun Chaturvedi**
+
+- GitHub: https://github.com/shivarjunchaturvedi
+- Live Website: https://shivarjunchaturvedi.github.io/E-Web-Project/
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
